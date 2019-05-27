@@ -1,0 +1,46 @@
+
+BODY         {background-color:#e2e0d9; text-align:center;}
+
+.Disabled    {color:#909090; font-style:italic;}
+.Font0       {font-family:"Arial"; font-size:9px;  font-weight:Normal; color:#222222;}
+.Font1       {font-family:"Arial"; font-size:11px; font-weight:Normal; color:#222222;}
+.Font2       {font-family:"Arial"; font-size:12px; font-weight:Normal; color:#222222;}
+
+.resultBox   {background-color: #ffe5d8; border: 1pt solid #000000; width:450px; overflow:hidden; text-align:center; font-family:"Arial"; font-size:14px; font-weight:bold; color:#222222; padding:15px 5px; margin:20px}
+
+A            {color:#212E37;}
+A:link       {text-decoration:none;      font-weight:bolder; color:#212E37;}
+A:visited    {text-decoration:none;      font-weight:bolder; color:#212E37;}
+A:hover      {text-decoration:underline; font-weight:bolder; color:#BC3D01;}
+
+
+Input.t1     {font-family:"Arial"; font-size:11px; color:#000000; background-color:#d1d1be; border:1px; border-color:#888888; border-style:solid; padding-left:4px; width:99%;}
+Select.s1    {font-family:"Arial"; font-size:11px; color:#000000; background-color:#d1d1be; border:1px; border-color:#888888; border-style:solid; padding-left:4px; width:99%;}
+Textarea.a1  {font-family:"Arial"; font-size:11px; color:#000000; background-color:#d1d1be; border:1px; border-color:#888888; border-style:solid; padding-left:4px; width:99%;}
+Input.b1     {font-family:"Arial"; font-size:11px; cursor:pointer; padding-left:5px; padding-right:5px; margin-left:5px; margin-right:5px; }
+
+.sTable1     {border-width:0px; border-style:solid; border-color:#000000; background-color:#949482;}
+.sTable2     {border-width:0px; border-style:solid; border-color:#000000; background-color:#949482;}
+.sTable3     {border-width:1px; border-style:solid; border-color:#949482; }
+.sTableTit   {border-width:1px; border-style:solid; border-color:#949482; border-bottom-width:0px;}
+
+.sTitle      {font-family:"Arial"; font-size:12px; color:#000000; background-color:#e9e9da; vertical-align:middle; white-space:nowrap; cursor:default; padding-left:2px; }
+.sHeader     {font-family:"Arial"; font-size:11px; color:#666458; background-color:#d8d3a3; vertical-align:middle; white-space:nowrap; font-weight:bold; padding:4px; padding-bottom:3px; cursor:default;}
+.sText1      {font-family:"Arial"; font-size:11px; color:#464646; background-color:#e6e6df; text-align:right; vertical-align:middle; cursor:default; border-top: #FFFFFF 1px solid; border-left: #FFFFFF 1px solid; white-space:nowrap;}
+.sText2      {font-family:"Arial"; font-size:10px; color:#412e25; background-color:#e6e6df; text-align:right; vertical-align:middle; cursor:default; white-space:nowrap;}
+.sText3      {font-family:"Arial"; font-size:11px; color:#464646; background-color:#e6e6df; vertical-align:middle; cursor:default; border-top: #FFFFFF 1px solid; border-left: #FFFFFF 1px solid; white-space:nowrap;}
+.sText4      {font-family:"Arial"; font-size:10px; color:#464646; background-color:#e6e6df; text-align:right; vertical-align:middle; cursor:default; border-top: #FFFFFF 1px solid; border-left: #FFFFFF 1px solid; white-space:nowrap;}
+.sTextAdm    {font-family:"Arial"; font-size:11px; color:#412E26; background-color:#f3e0d7; text-align:right; vertical-align:middle; cursor:default; border-top: #fffaf0 1px solid; border-left: #fffaf0 1px solid; white-space:nowrap;}
+.sField1     {font-family:"Arial"; font-size:11px; color:#000000; background-color:#d8d8d1; text-align:left;  vertical-align:middle; padding-left:5px; border-top: #FFFFFF 1px solid; border-left: #FFFFFF 1px solid; white-space:nowrap;}
+.sField2     {font-family:"Arial"; font-size:10px; color:#000000; background-color:#d8d8d1; text-align:left;  vertical-align:middle; padding-left:5px; white-space:nowrap;}
+.sField3     {font-family:"Arial"; font-size:11px; color:#000000; background-color:#d8d8d1; vertical-align:middle; border-top: #FFFFFF 1px solid; border-left: #FFFFFF 1px solid; white-space:nowrap;}
+.sField4     {font-family:"Arial"; font-size:10px; color:#000000; background-color:#d8d8d1; text-align:left;  vertical-align:middle; padding-left:5px; border-top: #FFFFFF 1px solid; border-left: #FFFFFF 1px solid; white-space:nowrap;}
+.sFieldAdm   {font-family:"Arial"; font-size:11px; color:#000000; background-color:#e5d2c9; text-align:left;  vertical-align:middle; padding-left:5px; border-top: #fffaf0 1px solid; border-left: #fffaf0 1px solid; white-space:nowrap;}
+.sData1l     {text-align:left;   font-family:"Arial"; font-size:11px; font-weight:Normal; color:#000000; padding-left:4px; padding-right:4px; white-space:nowrap;}
+.sData1c     {text-align:center; font-family:"Arial"; font-size:11px; font-weight:Normal; color:#000000; padding-left:4px; padding-right:4px; white-space:nowrap;}
+.sRow1       {background-color:#c3c3b0;}
+.sRow2       {background-color:#d5d5c9;}
+.sSummary    {font-family:"Arial"; font-weight:bold; font-style:italic; font-size:10px; color:#3A4F6C; vertical-align:middle; text-align:right; padding-left:3px; padding-right:3px; background-color:#ebefd9; height:15px;}
+.sFinal      {font-family:"Arial"; font-size:10px; color:#666458; vertical-align:middle; background-color:#ebebdc; cursor:default; padding-left:5px; padding-right:5px; height:30px; text-align:center;}
+.sDivider1   {font-family:"Arial"; font-size:8px;  color:#666458; vertical-align:middle; background-color:#c3c3b0; cursor:default; height:5px; }
+.sDivider2   {font-family:"Arial"; font-size:8px;  color:#666458; vertical-align:middle; background-color:#b1b1a0; cursor:default; height:5px; }
